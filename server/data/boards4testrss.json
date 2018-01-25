@@ -1,0 +1,21 @@
+[
+  {
+    "title": "design",
+    "feeds": [
+      {
+        "uid": "1501956334",
+        "title": "graphism",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": "documentaire",
+        "isImage": false,
+        "isDouble": true,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://feeds.feedburner.com/GraphismeInteractivit",
+        "articles": null
+      }
+    ]
+  }
+]

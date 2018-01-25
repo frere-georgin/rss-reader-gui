@@ -1,0 +1,275 @@
+[
+  {
+    "title": "design",
+    "feeds": [
+      {
+        "uid": "1501956333",
+        "title": "tobiasahlin",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": true,
+        "url": "http://tobiasahlin.com/feed/",
+        "articles": null
+      },
+      {
+        "uid": "1501956334",
+        "title": "graphism",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": "documentaire",
+        "isImage": false,
+        "isDouble": true,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://feeds.feedburner.com/GraphismeInteractivit",
+        "articles": null
+      },
+      {
+        "uid": "1501956335",
+        "title": "mdo",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": "documentaire",
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://feeds.feedburner.com/mdo",
+        "articles": null
+      },
+      {
+        "uid": "1501956336",
+        "title": "davegamache",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://medium.com/feed/@dhg",
+        "articles": null
+      },
+      {
+        "uid": "1501956337",
+        "title": "tristanharris",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "https://medium.com/feed/@tristanharris",
+        "articles": null
+      },
+      {
+        "uid": "1501956338",
+        "title": "dmolsen",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://feeds.feedburner.com/MobileInHigherEd",
+        "articles": null
+      },
+      {
+        "uid": "1501956339",
+        "title": "bradforst",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://feeds.feedburner.com/brad-frosts-blog",
+        "articles": null
+      },
+      {
+        "uid": "15019563100",
+        "title": "LittleBigDetails",
+        "board": "design",
+        "type": "rss",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://littlebigdetails.com/rss",
+        "articles": null
+      }
+    ]
+  },
+  {
+    "title": "culture",
+    "feeds": [
+      {
+        "uid": "1501956340",
+        "title": "mondediplo",
+        "type": "rss",
+        "board": "culture",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": true,
+        "isAuthor": true,
+        "isDesc": true,
+        "url": "http://www.monde-diplomatique.fr/rss/",
+        "articles": null
+      },
+      {
+        "uid": "1501956341",
+        "title": "arte",
+        "type": "rss",
+        "board": "culture",
+        "refreshRate": "20",
+        "filter": null,
+        "isImage": true,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://feeds.feedburner.com/ArteProgrammeTv",
+        "articles": null
+      },
+      {
+        "uid": "1501956342",
+        "title": "radiofrance",
+        "type": "rss",
+        "board": "culture",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": true,
+        "url": "http://radiofrance-podcast.net/podcast09/rss_16278.xml",
+        "articles": null
+      },
+      {
+        "uid": "1501956343",
+        "title": "thinkerview",
+        "type": "rss",
+        "board": "culture",
+        "refreshRate": "10",
+        "filter": null,
+        "isImage": true,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQgWpmt02UtJkyO32HGUASQ",
+        "articles": null
+      },
+      {
+        "uid": "1501956344",
+        "title": "nytimes",
+        "type": "rss",
+        "board": "culture",
+        "refreshRate": "10",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": true,
+        "isDesc": false,
+        "url": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "articles": null
+      }
+    ]
+  },
+  {
+    "title": "tech",
+    "feeds": [
+      {
+        "uid": "1501956345",
+        "title": "techcrunch",
+        "type": "rss",
+        "board": "tech",
+        "refreshRate": "20",
+        "filter": null,
+        "isImage": true,
+        "isAuthor": false,
+        "isDesc": false,
+        "url": "http://feeds.feedburner.com/TechCrunch/",
+        "articles": null
+      },
+      {
+        "uid": "1501956346",
+        "title": "googleresearchblog",
+        "type": "rss",
+        "board": "tech",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": true,
+        "url": "http://feeds.feedburner.com/blogspot/gJZg",
+        "articles": null
+      },
+      {
+        "uid": "1501956347",
+        "title": "ycombinator",
+        "type": "rss",
+        "board": "tech",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": true,
+        "url": "https://news.ycombinator.com/rss",
+        "articles": null
+      },
+      {
+        "uid": "1501956348",
+        "title": "ycombinator",
+        "type": "rss",
+        "board": "tech",
+        "refreshRate": "300",
+        "filter": null,
+        "isImage": false,
+        "isDouble": false,
+        "isAuthor": false,
+        "isDesc": true,
+        "url": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/.rss",
+        "articles": null
+      }
+    ]
+  }
+  ,
+  {
+    "title": "rss",
+    "feeds": [
+      {
+        "uid": "1501956345",
+        "title": "Banana",
+        "type": "twitter",
+        "board": "tech",
+        "refreshRate": "20",
+        "search": "banana",
+        "articles": null
+      },
+      {
+        "uid": "1501956345",
+        "title": "Trololo",
+        "type": "twitter",
+        "board": "tech",
+        "refreshRate": "20",
+        "search": "trolololo",
+        "articles": null
+      },
+    ]
+  }
+]

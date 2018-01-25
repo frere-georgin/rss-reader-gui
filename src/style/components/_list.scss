@@ -1,0 +1,95 @@
+  @keyframes pop-in {
+    0% {
+      opacity: 0;
+      transform: translateY(5px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
+
+  // DRAG & DROP SVG
+  .bg {
+    position: absolute;
+    display: block;
+    overflow: visible!important;
+    z-index: 998;
+    top: 75px;
+  }
+
+  .column-wrapper {
+    display: inline-block;
+    width: 250px;
+    height: 100%;
+    &--double {
+      width: 500px;
+    }
+  }
+  .column {
+    height: 100%;
+    width: 100%;
+
+  }
+  .column h5 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  .list-wrapper {
+    height: 100%;
+    width: initial;
+    display: inline-flex;
+    animation: pop-in .5s 0s ease-in-out;
+  }
+  .column-wrapper:last-child {
+    margin-right: 30px;
+  }
+
+  .list-head {
+    position: relative;
+  }
+  .list-head-interaction {
+    position: absolute;
+    width: 100px;
+    top: 1px;
+    right: -15px;
+  }
+  .list-head-title {
+    width: 80%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    z-index: 999;
+    position: relative;
+    cursor: move;
+    cursor: grab;
+  }
+  .list-head-interaction-button {
+    display: inline-block;
+    float: left;
+    opacity: 0;
+    margin: 0;
+  }
+  .list-head:hover .list-head-interaction-button {
+    opacity: 1;
+  }
+  .list .item--error {
+    height: 100%;
+  }
+  .list .item--error .item--error-title {
+    vertical-align: middle;
+    line-height: 75vh;
+    text-align: center;
+    margin: 0;
+  }
+  .list {
+    border-right: 1px solid #bbb;
+    height: 100%;
+    white-space: normal;
+    overflow-y: scroll;
+    float:left;
+  }
+
+  .feed-edit {
+
+  }

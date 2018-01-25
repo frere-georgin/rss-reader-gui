@@ -1,0 +1,9 @@
+{
+  "configFile":           "./data/config.json",
+  "boardsFile":           "./data/boards.json",
+  "isFakeData":           false,
+  "consumer_key":         "ltR4NMOmvWFRIzHYxBGrGPqhG",
+  "consumer_secret":      "uBV6oteoisWtEVWUR1e6W12xOnf3uEDIfmKMfXmj0BT5icVe69",
+  "access_token":         "210806037-SkzKXu0Gsang9IvnEtrwpEIpWapGuQ23GxDMQLic",
+  "access_token_secret":  "qoqfrHj5HVRP9Q7gvbi4bqrAAylXIDPlTOlHbohk1GtOO"
+}

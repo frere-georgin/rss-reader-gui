@@ -1,0 +1,71 @@
+[
+  {
+    "title": "design",
+    "feeds": [
+      {
+        "title": "tobiasahlin",
+        "type": "rss",
+        "url": "http://tobiasahlin.com/feed/",
+        "items": null
+      },
+      {
+        "title": "graphism",
+        "type": "rss",
+        "url": "http://feeds.feedburner.com/GraphismeInteractivit",
+        "items": null
+      },
+      {
+        "title": "arte",
+        "type": "rss",
+        "url": "http://feeds.feedburner.com/ArteProgrammeTv",
+        "items": null
+      }
+    ]
+  },
+  {
+    "title": "economy",
+    "feeds": [
+      {
+        "title": "techcrunch",
+        "type": "rss",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQgWpmt02UtJkyO32HGUASQ",
+        "items": null
+      },
+      {
+        "title": "googleresearchblog",
+        "type": "rss",
+        "url": "http://feeds.feedburner.com/blogspot/gJZg",
+        "items": null
+      }
+    ]
+  },
+  {
+    "title": "lead",
+    "feeds": [
+      {
+        "title": "techcrunch",
+        "type": "rss",
+        "url": "http://feeds.feedburner.com/TechCrunch/",
+        "items": null
+      },
+      {
+        "title": "googleresearchblog",
+        "type": "rss",
+        "url": "http://feeds.feedburner.com/TechCrunch/",
+        "items": null
+      },
+      {
+        "title": "googleresearchblog",
+        "type": "rss",
+        "url": "http://feeds.feedburner.com/TechCrunch/",
+        "items": null
+      },
+      {
+        "title": "googleresearchblog",
+        "type": "rss",
+        "url": "http://feeds.feedburner.com/TechCrunch/",
+        "items": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+
+
+  html, body, #app {
+    height: 100%;
+    min-width: 100%;
+  }
+  body {
+    position: relative;
+  }
+  .dashboard {
+    height: 100%;
+    min-width: 100%;
+    background-color: #fafafa;
+    position: relative;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  .dashboard * {
+    user-select: none;
+  }
+  .dashboard.loading {
+    overflow: hidden;
+  }
+  .nav {
+
+  }
+  $test: 100px;
+
+
+@import 'components/test.scss';
+@import 'components/_nav.scss';
+@import 'components/_board.scss';
+@import 'components/_list.scss';
+@import 'components/_item.scss';
+@import 'components/_edit-value.scss';
+
+.test {
+
+}
